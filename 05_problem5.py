@@ -1,5 +1,3 @@
-a = int(input("Enter Number 1 : "))
-b = int(input("Enter Number 2 : "))
+letter = "Dear Harry, \n\tThis python course is nice. \nThanks!" # \t mean add a tab like value or \n mean add a new line
 
-
-print("The Average of these two number is", (a+b)/2)
+print(letter)

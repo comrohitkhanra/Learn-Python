@@ -1,5 +1,4 @@
-a = 1
+name = input("Enter your name: ")
 
-b = 5
+print(f"Good Afternoon {name}") # F string mack print one string in another string, introduce in python after Python3
 
-print(a + b)
