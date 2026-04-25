@@ -1,3 +1,5 @@
-letter = "Dear Harry, \n\tThis python course is nice. \nThanks!" # \t mean add a tab like value or \n mean add a new line
+a = (7, 0, 8, 0, 0, 9)
 
-print(letter)
+n = a.count(0)
+
+print(n)

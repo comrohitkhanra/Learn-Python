@@ -1,4 +1,20 @@
-name = input("Enter your name: ")
+fruits = []
 
-print(f"Good Afternoon {name}") # F string mack print one string in another string, introduce in python after Python3
+f1 = input("Enter fruit name: ") #append = add one value 
+fruits.append(f1)
+f2 = input("Enter fruit name: ")
+fruits.append(f2)
+f3 = input("Enter fruit name: ")
+fruits.append(f3)
+f4 = input("Enter fruit name: ")
+fruits.append(f4)
+f5 = input("Enter fruit name: ")
+fruits.append(f5)
+f6 = input("Enter fruit name: ")
+fruits.append(f6)
+f7 = input("Enter fruit name: ")
+fruits.append(f7)
+# f8 = input("Enter fruit name: ")
+# fruits.append(f8)
 
+print(fruits)

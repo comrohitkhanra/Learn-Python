@@ -1,5 +1,3 @@
-name = "Rohit is a  good boy  "
+a = (34, 234, "Rohit")
 
-print(name.find("  ")) # if some thing not available so output will be "-1"
-# and if some thing is happen so output will being a value
-
+a[2] = "Larry" # tuple is immutable

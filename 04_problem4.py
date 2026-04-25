@@ -1,4 +1,4 @@
-a = int(input("Enter Number 1: "))
-b = int(input("Enter Number 2: "))
+l = [34, 23, 645, 123]
 
-print("a is grater then b is: ", a>b)
+print(sum(l))
+# sum is a function which add the numbers 
